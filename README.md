@@ -1,2 +1,2 @@
 # hello-world
-hello world repo
+Hi github puppies, i am here to rock!
